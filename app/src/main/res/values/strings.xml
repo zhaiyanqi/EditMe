@@ -2,4 +2,6 @@
     <string name="app_name">EditMe</string>
     <string name="string_edit">Edit</string>
     <string name="string_me">Me</string>
+    <string name="string_prefix">prefix</string>
+    <string name="string_suffix">suffix</string>
 </resources>
