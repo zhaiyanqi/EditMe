@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditMe</string>
+    <string name="string_edit">Edit</string>
+    <string name="string_me">Me</string>
+</resources>
